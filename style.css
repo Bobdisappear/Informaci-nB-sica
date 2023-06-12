@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    
+    scroll-behavior: smooth;
 }
 
 
@@ -143,4 +143,9 @@ footer{
 footer>a{
     color: aliceblue;
     margin-right: 0.8rem;
+}
+
+section>p{
+    background-color: white;
+    border-radius: 0.5rem;
 }
